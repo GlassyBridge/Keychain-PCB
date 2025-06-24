@@ -14,3 +14,11 @@ It is a Keychain/fidget based on my PFP(profile picture) on hackclub's slack.
 | Push buttons    | SW_PUSH_6mm                                | 2        |
 
 ## Schematics
+![Sch](images/Sch.png)
+## PCB
+![PCB](images/PCB.png)
+## 3D view
+![3D front](images/3Dfront.png)
+![3D front rendered](https://github.com/user-attachments/assets/0a29d679-082e-4a85-9a4b-677e5d8f9174)
+![3D back](https://github.com/user-attachments/assets/0a29d679-082e-4a85-9a4b-677e5d8f9174)
+![3D back rendered](https://github.com/user-attachments/assets/0a29d679-082e-4a85-9a4b-677e5d8f9174)
