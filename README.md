@@ -1,6 +1,6 @@
 # Keychain-PCB
-My first PCB design. Made for solder at hack club.
-It is a Keychain/fidget based on my PFP(profile picture).
+My first PCB design. Made for solder at hackclub.
+It is a Keychain/fidget based on my PFP(profile picture) on hackclub's slack.
 ## BOM (Bill of Materials)
 | Material        | Footprint                                  | Quantity |
 |-----------------|--------------------------------------------|----------|
