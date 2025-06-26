@@ -1,9 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-BT1,BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
-C1,CP_Radial_D8.0mm_P5.00mm,1,C,
-"D1, D2",LED_D5.0mm,2,LED,
-M1,PinHeader_1x02_P2.54mm_Vertical,1,Motor_DC,
-R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
-R2,R_LDR_5.1x4.3mm_P3.4mm_Vertical,1,R_Photo,
-RV1,Potentiometer_Vishay_T73YP_Vertical,1,R_Potentiometer,
-"SW1, SW2",SW_PUSH_6mm,2,SW_Push,
