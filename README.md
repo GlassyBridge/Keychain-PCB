@@ -1,6 +1,11 @@
 # Keychain-PCB
-My first PCB design. Made for solder at hackclub.
-It is a Keychain/fidget based on my PFP(profile picture) on hackclub's slack. By @GB114.
+My first PCB design. Made for solder at hackclub, a challenge that requires the partticipants to build a PCB using limited components.
+It is a Keychain based on my PFP(profile picture) on hackclub's slack, @GB114.
+## Features
+- Two LEDs that light up when SW1 is pressed.
+  - Photoresistor with transistor(NPN) to not turn on the LEDs in bright environments.
+- DC_Motor(Vibrator) that vibrates when SW2 is pressed.
+  - The intensity is adjustable by a potentiometer.
 ## BOM (Bill of Materials)
 | Material        | Footprint                                  | Quantity | Types |
 |-----------------|--------------------------------------------|----------|-------|
