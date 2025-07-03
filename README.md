@@ -6,6 +6,8 @@ It is a Keychain based on my PFP(profile picture) on hackclub's slack, @GB114.
   - Photoresistor with transistor(NPN) to not turn on the LEDs in bright environments.
 - DC_Motor(Vibrator) that vibrates when SW2 is pressed.
   - The intensity is adjustable by a potentiometer.
+## How to get yours?
+- Just take the gerber.zip file from the production folder and give it to your manufacturer. (or manufacture it yourself.)
 ## BOM (Bill of Materials)
 | Material        | Footprint                                  | Quantity | Types |
 |-----------------|--------------------------------------------|----------|-------|
